@@ -1,0 +1,7 @@
+RUN THE SQL FILES IN FOLLOWING ORDER:
+
+1. Create_Table.sql
+2. Polulating.sql
+3. Country_normalisation.sql
+4.
+5.
