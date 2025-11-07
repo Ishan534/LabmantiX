@@ -32,15 +32,11 @@ Through data preprocessing, feature engineering, and advanced modeling, the proj
 - Deliveries during **low traffic** conditions recorded the **highest speed**.  
 - Heavy traffic and jams significantly slowed delivery times.
 
-![Traffic Condition](images/traffic_condition.png)
-
 ---
 
 ### 2. Average Delivery Speed by Weather
 - **Sunny weather** had the fastest average speeds.  
 - **Stormy** and **foggy** days saw slower deliveries due to reduced visibility and safety precautions.
-
-![Weather Conditions](images/weather_conditions.png)
 
 ---
 
@@ -48,15 +44,11 @@ Through data preprocessing, feature engineering, and advanced modeling, the proj
 - **Grocery items** had the longest delivery times due to perishable handling and frequent local routing.  
 - **Electronics** and **clothing** categories were among the fastest.
 
-![Product Category](images/product_category.png)
-
 ---
 
 ### 4. Average Delivery Time by Vehicle Type
 - **Vans** had the **highest delivery speed**, benefiting from route optimization and larger capacity.  
 - **Motorcycles and scooters** were slower but suitable for short-distance deliveries.
-
-![Vehicle Type](images/vehicle_type.png)
 
 ---
 
@@ -64,14 +56,10 @@ Through data preprocessing, feature engineering, and advanced modeling, the proj
 - Deliveries made at **night (0–6 hrs)** were fastest due to minimal traffic.  
 - **Morning** deliveries were comparatively slower.
 
-![Time of Day](images/time_of_day.png)
-
 ---
 
 ### 6. Delivery Distance vs Speed
 - A mild positive correlation was observed — longer distances resulted in slightly higher speeds, likely due to highway routes.
-
-![Distance vs Speed](images/distance_vs_speed.png)
 
 ---
 
@@ -108,4 +96,3 @@ Through data preprocessing, feature engineering, and advanced modeling, the proj
 
 ---
 
-## 📂 Repository Structure
